@@ -56,7 +56,8 @@ Business Questions To Answer
 Generic Question
 How many unique cities does the data have?
 In which city is each branch?
-Product
+
+**Product**
 How many unique product lines does the data have?
 What is the most common payment method?
 What is the most selling product line?
@@ -69,24 +70,26 @@ Fetch each product line and add a column to those product line showing "Good", "
 Which branch sold more products than average product sold?
 What is the most common product line by gender?
 What is the average rating of each product line?
-Sales
+
+**Sales**
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
-Customer
-How many unique customer types does the data have?
-How many unique payment methods does the data have?
-What is the most common customer type?
-Which customer type buys the most?
-What is the gender of most of the customers?
-What is the gender distribution per branch?
-Which time of the day do customers give most ratings?
-Which time of the day do customers give most ratings per branch?
-Which day fo the week has the best avg ratings?
-Which day of the week has the best average ratings per branch?
-Revenue And Profit Calculations
-$ COGS = unitsPrice * quantity $
+
+**Customer**
+1. How many unique customer types does the data have?
+2. How many unique payment methods does the data have?
+3. What is the most common customer type?
+4. Which customer type buys the most?
+5. What is the gender of most of the customers?
+6. What is the gender distribution per branch?
+7. Which time of the day do customers give most ratings?
+8. Which time of the day do customers give most ratings per branch?
+9. Which day fo the week has the best avg ratings?
+10. Which day of the week has the best average ratings per branch?
+11. Revenue And Profit Calculations
+12. $ COGS = unitsPrice * quantity $
 
 $ VAT = 5% * COGS $
 
